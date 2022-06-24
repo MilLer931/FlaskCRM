@@ -1,0 +1,11 @@
+body {
+    background: white;
+}
+
+.left, .right {
+    float: left; /* Обтекание справа */
+    width: 50%; /* Ширина текстового блока */
+   }
+   .right {
+    text-align: right; /* Выравнивание по правому краю */
+   }
