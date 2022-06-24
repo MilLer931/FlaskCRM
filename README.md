@@ -39,4 +39,5 @@ pip install flask flask-sqlalchemy flask-login
 ### Библиотеки
 
 *Flask* - фреймворк для создания веб-приложений на языке программирования Python
+
 *werkzeug.security* - реализация хэширования паролей
